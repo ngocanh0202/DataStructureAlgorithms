@@ -1,0 +1,14 @@
+D:\CODE\C#\training\Person\Person\bin\Debug\net8.0\Person.exe
+D:\CODE\C#\training\Person\Person\bin\Debug\net8.0\Person.deps.json
+D:\CODE\C#\training\Person\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+D:\CODE\C#\training\Person\Person\bin\Debug\net8.0\Person.dll
+D:\CODE\C#\training\Person\Person\bin\Debug\net8.0\Person.pdb
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\Person.dll
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\refint\Person.dll
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\Person.pdb
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+D:\CODE\C#\training\Person\Person\obj\Debug\net8.0\ref\Person.dll

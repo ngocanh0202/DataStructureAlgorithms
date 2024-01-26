@@ -1,0 +1,14 @@
+D:\CODE\C#\training\search\search\bin\Debug\net8.0\search.exe
+D:\CODE\C#\training\search\search\bin\Debug\net8.0\search.deps.json
+D:\CODE\C#\training\search\search\bin\Debug\net8.0\search.runtimeconfig.json
+D:\CODE\C#\training\search\search\bin\Debug\net8.0\search.dll
+D:\CODE\C#\training\search\search\bin\Debug\net8.0\search.pdb
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\search.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\search.AssemblyInfoInputs.cache
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\search.AssemblyInfo.cs
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\search.csproj.CoreCompileInputs.cache
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\search.dll
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\refint\search.dll
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\search.pdb
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\search.genruntimeconfig.cache
+D:\CODE\C#\training\search\search\obj\Debug\net8.0\ref\search.dll

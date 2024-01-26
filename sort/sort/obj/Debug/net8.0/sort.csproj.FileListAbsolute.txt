@@ -1,0 +1,14 @@
+D:\CODE\C#\training\sort\sort\bin\Debug\net8.0\sort.exe
+D:\CODE\C#\training\sort\sort\bin\Debug\net8.0\sort.deps.json
+D:\CODE\C#\training\sort\sort\bin\Debug\net8.0\sort.runtimeconfig.json
+D:\CODE\C#\training\sort\sort\bin\Debug\net8.0\sort.dll
+D:\CODE\C#\training\sort\sort\bin\Debug\net8.0\sort.pdb
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\sort.AssemblyInfoInputs.cache
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\sort.AssemblyInfo.cs
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\sort.csproj.CoreCompileInputs.cache
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\sort.dll
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\refint\sort.dll
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\sort.pdb
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\sort.genruntimeconfig.cache
+D:\CODE\C#\training\sort\sort\obj\Debug\net8.0\ref\sort.dll
